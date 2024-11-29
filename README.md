@@ -44,7 +44,10 @@
 <br>
  
 >----------
->
+> <p style="text-align: center;">
+>  <img src="https://drive.google.com/uc?export=view&id=1aWosVPasTiweYKaD24BXE8Ulq12BDoIS" alt="Image">
+> </p>
+> 
 > In today’s interconnected world, robust cybersecurity is essential to safeguard against rapidly evolving threats. **Cybersecurity Readiness by SUPERUSER** integrates advanced solutions, strategic insights, and targeted education to help individuals, professionals, and enterprises develop resilient cybersecurity practices.
 >
 > We provide comprehensive training and consulting services on critical topics such as **social engineering**, **phishing defense**, **ransomware mitigation**, and more. By combining **Cyber Threat Intelligence (CTI)** with **Defensive and Operational Security Practices**, our holistic solutions empower organizations to counter modern cyber threats effectively.
